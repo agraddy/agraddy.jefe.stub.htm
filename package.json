@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "Anthony Graddy",
   "license": "MIT",
+  "stub": "htm",
   "homepage": "https://github.com/agraddy/agraddy.jefe.stub.htm#readme",
   "scripts": {
     "test": "node ./test"
