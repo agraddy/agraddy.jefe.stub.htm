@@ -10,13 +10,16 @@
     "test": "node ./test"
   },
   "repository": {
-	  "type": "git",
-	  "url": "git://github.com/agraddy/agraddy.jefe.stub.htm.git"
+    "type": "git",
+    "url": "git://github.com/agraddy/agraddy.jefe.stub.htm.git"
   },
   "bugs": {
-	  "url": "https://github.com/agraddy/agraddy.jefe.stub.htm/issues"
+    "url": "https://github.com/agraddy/agraddy.jefe.stub.htm/issues"
   },
   "devDependencies": {
-	  "tape": "^4.6.3"
+    "tape": "^4.6.3"
+  },
+  "dependencies": {
+    "shelljs": "^0.7.5"
   }
 }
